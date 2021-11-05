@@ -12,6 +12,12 @@
 	<meta name="copyright" content="Maciej Jaros">
 
 	<link rel="stylesheet" type="text/css" href="style.css">
+
+	<link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon"/>
+
+	<meta property="og:title" content="Narzędzie sprawdzania dostępności witryny"/>
+	<meta property="og:description" content="Narzędzie sprawdzania zgodności z całym WCAG. Działa dla dowolnej witryny."/>
+	<meta property="og:image" content="https://f.enux.pl/wcag/narzedzie-sprawdzania-dostepnosci/Check_sheet.svg.png"/>
 </head>
 <body>
     <!-- content -->
