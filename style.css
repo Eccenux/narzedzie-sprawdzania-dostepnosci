@@ -1,0 +1,64 @@
+body {
+	background-color: #0d5e62;
+	color: black;
+	font: 14pt Roboto, Helvetica, sans-serif;
+}
+* {
+	box-sizing: border-box;
+}
+main {
+	margin: 35vh auto;
+	width: min-content;
+	padding: 2em;
+	text-align: center;
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+}
+/* form */
+input {
+	font-size: 14pt;
+	padding: .5em;
+}
+input.text {
+	width: 30em;
+	margin: 1em;
+}
+
+/* report messages */
+.msg {
+	border: 1px solid black;
+	padding: 1em;
+}
+.msg.warning {
+	background-color: gold;
+	color: black;
+}
+.msg.error {
+	background-color: lightcoral;
+	color: black;
+}
+
+/* docs */
+body, html {
+	padding: 0;
+	margin: 0;
+}
+footer {
+	background-color: #ddd;
+	color: black;
+	border-top: 1px solid black;
+
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	padding: 1em;
+}
+footer p {
+	padding: 0;
+	margin: 0;
+}
+.copyright {
+	font-size: 90%;
+	text-align: right;
+}
