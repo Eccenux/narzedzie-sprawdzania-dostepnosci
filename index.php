@@ -11,7 +11,7 @@
 
 	<meta name="copyright" content="Maciej Jaros">
 
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="style.css?1610">
 
 	<link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon"/>
 
@@ -42,7 +42,9 @@
 		?>
 	</main>
 	<footer>
-		<p>Narzędzie sprawdzania zgodności z całym WCAG.
+		<p><a href="https://github.com/Eccenux/narzedzie-sprawdzania-dostepnosci/"
+			title="Otwiera dokumentację narzędzia"
+			>Narzędzie sprawdzania zgodności z całym WCAG</a>.
 		<p class="copyright">Copyright &copy; Maciej Jaros.
 	</footer>
 </body>
