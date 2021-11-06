@@ -11,7 +11,7 @@
 
 	<meta name="copyright" content="Maciej Jaros">
 
-	<link rel="stylesheet" type="text/css" href="style.css?1610">
+	<link rel="stylesheet" type="text/css" href="style.css?1631">
 
 	<link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon"/>
 

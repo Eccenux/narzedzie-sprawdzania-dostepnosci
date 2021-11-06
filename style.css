@@ -75,13 +75,26 @@ footer a:hover {
 /* small screen */
 @media screen and (max-width: 800px)  {
 
+	body, html {
+		height: 100%;
+	}
+	body {
+		display: flex;
+		flex-direction: column;
+	}
+
 	main {
-		margin: 25vh 0;
+		margin: auto 0;
 		width: 100%;
 	}
 
 	input.text {
 		width: 100%;
+	}
+
+	footer {
+		position: static;
+		margin-top: auto;
 	}
 
 	.copyright {
